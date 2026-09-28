@@ -1,43 +1,11 @@
-# Welcome to SuperGoodGame's Internet Home
-```C++
-#include<iostream>
-using namespace std;
-int main()
-  {
-     cout<<"Welcome "<<endl;
-     return 0;
-  }
-```
-***
-# Super Good Game的起点
+## Hi there 👋
 
-### 从现在开始，大概就开始了一场SuperGoodGame
+I'm currently an **LLM Systems Engineer [@CMRIAT](https://github.com/CMRIAT)**, working on inference, RL training, and SFT infrastructure.
 
-其实这场游戏早就开始了，从决定开始编程的时候，从在键盘上打出第一个“Hello World”的时候
+<br>
 
-时间如波光流转，逝者如斯，当遥望起最初的起点，跨度已然五年多
+🎓 B.Eng. in Computer Science @ Shandong University · M.Sc. @ HKUST  
 
-为什么从现在才意识到游戏的开始，我想大概是因为现在才真正的感到了这条路：作为一名OIer
+💻 AI Infra / LLM Systems  
 
-从一开始的选择，直到自主招生集训开始，真的只是把编程当做一种兴趣，仅此而已，甚至当初选择编程也只是因为对游戏的热衷和憧憬。
-
-现在才真正发现，作为一名IOer，要承受很多，要放弃很多，要选择很多，要困难很多，
-
-小学轻轻松松的打字编程，初中开开心心的糊弄算法过程，到了现在才感到困难与疲惫，
-
-不谦虚的说，我绝对是个大气运之人，2017NOIP最水两题+偏分最低分数线混过普及一等，自主招生10进6堪堪第6晋升集训一等，运气女神总是站在我的身后
-
-到了集训队，才真的是感到了自己这选择带来的沉甸甸的使命，
-
-#### 作为开始，不保留消极，以最好的自己，迎接将长达2年的游戏
-
-坎坷与艰辛的路程真的就开始了。
-
-##  从游戏而开始的游戏，也希望能以游戏心态结束游戏
-#### 就这样，SuperGoodGame 要作为我的IO name 时刻提醒自己，游戏心态，游戏困难，游戏艰难，游戏人生~
-```
-int main()
-{
-……
-……
-```
+⚡ Distributed Training · Inference Optimization · GPU Kernels
